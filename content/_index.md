@@ -5,7 +5,7 @@ title = "NICEST2 hackathon on FAIR climate data"
 
 ### March 11, 16 and 17, 2021 (afternoon)
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
+<a class="btn btn-info disabled" href="https://indico.neic.no/event/177" data-mode="1" target="_blank">Registration will open soon</a>
 
 ### Price
 
