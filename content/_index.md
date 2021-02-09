@@ -5,7 +5,7 @@ title = "NICEST2 hackathon on FAIR climate data"
 
 ### March 11, 16 and 17, 2021 (afternoon)
 
-<a class="btn btn-info disabled" href="https://indico.neic.no/event/177" data-mode="1" target="_blank">Registration will open soon</a>
+<a class="btn btn-success" href="https://indico.neic.no/event/177" data-mode="1" target="_blank">Register here</a>
 
 ### Price
 
@@ -13,14 +13,19 @@ Free of charge, funded by the [Nordic e-Infrastructure
 Collaboration](https://neic.no/).
 
 
-
-
-
 ### Hackathon goals and format
 
 From FAIR principles to FAIR in practices. This hackathon is a combination of training (March 11, 2021) and 
-hands-on using real Climate data!
+hands-on using real Climate data (16-17 March, 2021)!
 
+The goal is to take a bottom up approach to explore how the current
+international standards and tools for managing climate model output can
+be reused in a Nordic context to help ensure the valuable climate model
+outputs are FAIR and open. We will use real world output from two global
+climate models ([NorESM](https://www.noresm.org/) and [EC-Earth](http://www.ec-earth.org/)) and plan to work through the
+process of generating comprehensive metadata from the raw model
+simulation output. How metadata generation fits into research workflow
+and data management will also be considered.
 
 
 ### Requirements
@@ -32,18 +37,18 @@ There is no need to install anything but:
 ### Schedule
 
 Day 1 - Tuesday 11 March, 2021
-- TBA
+- Training, planning and preparations
 
 Day 2 - Tuesday 16 March, 2021
-- TBA
+- Practial work
 
 Day 3 - Wednesday 17 March, 2021
-- TBA
+- Practical work
 
 
 ### Location
 
-The hackathonp will be held **online**, participant links will be sent to
+The hackathon will be held **online**, participant links will be sent to
 registered participants.
 
 
@@ -62,17 +67,20 @@ If yes, then this hackathon is for you.
 ### How to join
 
 We have a limited number of seats. Priority seats are given to NICEST2 staff.
+ Please use the [NeIC indico page](https://indico.neic.no/event/177/overview) to register your interest.
 
 **As an attendees, we request you to be able to contribute a minimum of 30 hours (including the hackathon itself)**.
 
 ### Organizers
 
-- TBA
+- Anne Claire Foulloux (UiO), Hamish Struthers (LiU), Matus Kalas (UiB),
+Prashanth Dwarakanath (LiU), Tyge Løvset (NORCE)
 
 
 ### Contact
 
-TBA
+If you have questions please don't hesitate to contact Hamish Struthers:
+struthers@nsc.liu.se
 
 ## Questions, answers, and feedback
 
