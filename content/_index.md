@@ -3,7 +3,7 @@ title = "NICEST2 hackathon on FAIR climate data"
 +++
 
 
-### March 11, 16 and 17, 2021 (afternoon)
+### March 11, 16 and 17, 2021 (13:00 - 17:00 CET)
 
 <a class="btn btn-success" href="https://indico.neic.no/event/177" data-mode="1" target="_blank">Register here</a>
 
@@ -36,13 +36,13 @@ There is no need to install anything but:
 
 ### Schedule
 
-Day 1 - Tuesday 11 March, 2021
+Day 1 - Tuesday 11 March, 2021 (13:00 - 17:00 CET)
 - Training, planning and preparations
 
-Day 2 - Tuesday 16 March, 2021
+Day 2 - Tuesday 16 March, 2021 (13:00 - 17:00 CET)
 - Practial work
 
-Day 3 - Wednesday 17 March, 2021
+Day 3 - Wednesday 17 March, 2021 (13:00 - 17:00 CET)
 - Practical work
 
 
