@@ -67,6 +67,9 @@ If yes, then this hackathon is for you.
 ### How to join
 
 We have a limited number of seats. Priority seats are given to NICEST2 staff.
+
+To ensure a balanced mix of participants we warmly invite both climate researchers and research data managers.
+
  Please use the [NeIC indico page](https://indico.neic.no/event/177/overview) to register your interest.
 
 **As an attendees, we request you to be able to contribute a minimum of 30 hours (including the hackathon itself)**.
