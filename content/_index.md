@@ -19,14 +19,16 @@ From FAIR principles to FAIR in practices. This hackathon is a combination of tr
 hands-on using real Climate data (16-17 March, 2021)!
 
 The goal is to take a bottom up approach to explore how the current
-international standards and tools for managing climate model output can
-be reused in a Nordic context to help ensure the valuable climate model
-outputs are FAIR and open. We will use real world output from two global
-climate models ([NorESM](https://www.noresm.org/) and [EC-Earth](http://www.ec-earth.org/)) and plan to work through the
-process of generating comprehensive metadata from the raw model
-simulation output. How metadata generation fits into research workflow
-and data management will also be considered.
+international standards and tools for managing climate model output (including 
+[ES-DOC](https://www.earthsystemcog.org/projects/es-doc-models/), [CF](https://cfconventions.org/),
+[CMOR](https://cmor.llnl.gov/), [ESGF](https://esgf.llnl.gov/), etc.) can
+be reused in Nordic and national research projects to help ensure the valuable climate model
+outputs are FAIR and open. We will use real world output from two global climate models 
+([NorESM](https://www.noresm.org/) and [EC-Earth](http://www.ec-earth.org/)) and plan to work through 
+the process of generating comprehensive metadata from the raw model simulation output. 
+How metadata generation fits into research workflow and data management will also be considered.
 
+A report on the outcomes of this hackathon will be written and made publicly available.
 
 ### Requirements
 
