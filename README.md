@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/NordicESMhub/nicest2-fair-hackathon)
+
 # Template for CodeRefinery workshop webpages
 
 This repository is a template to set up webpages for CodeRefinery workshops.
