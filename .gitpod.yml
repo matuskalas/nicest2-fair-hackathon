@@ -4,3 +4,4 @@ image:
 tasks:
   - init: zola build
     command: zola serve
+    
