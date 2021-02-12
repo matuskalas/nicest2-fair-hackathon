@@ -33,5 +33,5 @@ twitter_image = "https://raw.githubusercontent.com/NordicESMHub/nicest2/master/i
 logos = [
     { name = "NICEST2", url = "https://neic.no/nicest2/", image = "nicest2.png" },
     { name = "RELIANCE", url = "", image = "reliance.png" },
-    { name = "EOSC-NORDIC", url = "", image = "eosc-nordic.png" },
+    { name = "EOSC-NORDIC", url = "https://www.eosc-nordic.eu/", image = "eosc-nordic.png" },
 ]
