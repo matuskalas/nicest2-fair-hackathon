@@ -32,9 +32,9 @@ A report on the outcomes of this hackathon will be written and made publicly ava
 
 ### Requirements
 
-There is no need to install anything but:
-- You need a laptop (or any desktop!) with a modern browser to access the [EOSC-Nordic JupyterLab](https://eosc-nordic.uiogeo-apps.sigma2.no/hub/login).
-- Once registered and close to the event, you will receive some information on how to access the Climate JupyterLab.
+We will be using the [EOSC-Nordic JupyterLab](https://eosc-nordic.uiogeo-apps.sigma2.no/hub/login) so there is no need to install anything but:
+- You need a laptop (or any desktop!) with a modern browser.
+- Once registered and close to the event, you will receive some information on how to register and access the [EOSC-Nordic JupyterLab](https://eosc-nordic.uiogeo-apps.sigma2.no/hub/login). We will organize a "check your access" session before the hackathon where we can help you to go through the steps.
 
 ### Schedule
 
