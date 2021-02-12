@@ -23,6 +23,7 @@
 
     </div>
     <div class="col-md-2">
+      <h4>Organizer</h4>
       {% for logo in config.extra.logos %}
         <a href="{{ logo.url }}">
           <img src="{{ resize_image(path="logos/" ~ logo.image, height=260, op="fit_height") | safe }}"
@@ -30,6 +31,14 @@
                style="margin-top: 25px;">
         </a>
       {% endfor %}
+      <hr>
+      <h4>Partners</h4>
+      {% for partner in config.extra.partners %}
+        <a href="{{ partner }}">
+          <img src="{{ resize_image(path="partners/" ~ partner.image, width=100, op="fit_width") | safe }}"
+               alt="partner"
+               style="margin-top: 25px;">
+        </a>
+      {% endfor %}
     </div>
-  </div><!-- row -->
 {% endblock content %}
