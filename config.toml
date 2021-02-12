@@ -35,5 +35,5 @@ logos = [
 ]
 partners = [
     { name = "RELIANCE", url = "", image = "reliance.png" },
-    { name = "EOSC-NORDIC", url = "", image = "eosc-nordic.png" },
+    { name = "EOSC-NORDIC", url = "https://www.eosc-nordic.eu/", image = "eosc-nordic.png" },
 ]
