@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nordicesmhub.github.io/nicest2-fair-hackathon/sitemap.xml

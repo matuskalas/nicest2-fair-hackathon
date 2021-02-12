@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- leaflet -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" integrity="sha256-BPfK9M5v34c2XP6p0cxVz1mUQLst0gTLk0mlc7kuodA=" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js" integrity="sha256-yDc0eil8GjWFKqN1OSzHSVCiuGghTosZCcRje4tj7iQ=" crossorigin="anonymous"></script>
+
+    <!-- https://github.com/Leaflet/Leaflet.markercluster -->
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+
+    <link href="https://nordicesmhub.github.io/nicest2-fair-hackathon/css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <!-- navigation -->
+      <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://neic.no" target="_blank">NeIC</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://neic.no/nicest2" target="_blank">NICEST2</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" ta\
+rget="_blank">Code of Conduct</a>
+            </li>
+            <li class="nav-item">
+	      <a class="nav-link" href="https://github.com/NordicESMHub/nicest2-fair-hackathon">Improve his page</a>
+            </li>	    
+
+
+          </ul>
+        </div>
+      </nav>
+      <!-- end navigation -->
+           
+      
+      <div class="row top-buffer">
+        <div class="col">
+          
+          
+            <h1>NICEST2 hackathon on FAIR climate data</h1>
+          
+        </div>
+      </div>
+
+
+      
+      
+      
+      
+<div class="row top-buffer-more">
+
+  <div class="col-sm-12">
+
+    
+      <title>NICEST2 - NICEST2 hackathon on FAIR climate data</title>
+    
+
+  </div>
+
+
+  <div class="row">
+    <div class="col-md-10">
+
+      
+        <h3 id="march-11-16-and-17-2021-13-00-17-00-cet">March 11, 16 and 17, 2021 (13:00 - 17:00 CET)</h3>
+<p><a class="btn btn-success" href="https://indico.neic.no/event/177" data-mode="1" target="_blank">Register here</a></p>
+<h3 id="price">Price</h3>
+<p>Free of charge, funded by the <a href="https://neic.no/">Nordic e-Infrastructure
+Collaboration</a>.</p>
+<h3 id="hackathon-goals-and-format">Hackathon goals and format</h3>
+<p>From FAIR principles to FAIR in practices. This hackathon is a combination of training (March 11, 2021) and 
+hands-on using real Climate data (16-17 March, 2021)!</p>
+<p>The goal is to take a bottom up approach to explore how the current
+international standards and tools for managing climate model output (including 
+<a href="https://www.earthsystemcog.org/projects/es-doc-models/">ES-DOC</a>, <a href="https://cfconventions.org/">CF</a>,
+<a href="https://cmor.llnl.gov/">CMOR</a>, <a href="https://esgf.llnl.gov/">ESGF</a>, etc.) can
+be reused in Nordic and national research projects to help ensure the valuable climate model
+outputs are FAIR and open. We will use real world output from two global climate models 
+(<a href="https://www.noresm.org/">NorESM</a> and <a href="http://www.ec-earth.org/">EC-Earth</a>) and plan to work through 
+the process of generating comprehensive metadata from the raw model simulation output. 
+How metadata generation fits into research workflow and data management will also be considered.</p>
+<p>A report on the outcomes of this hackathon will be written and made publicly available.</p>
+<h3 id="requirements">Requirements</h3>
+<p>We will be using the <a href="https://eosc-nordic.uiogeo-apps.sigma2.no/hub/login">EOSC-Nordic JupyterLab</a> so there is no need to install anything but:</p>
+<ul>
+<li>You need a laptop (or any desktop!) with a modern browser.</li>
+<li>Once registered and close to the event, you will receive some information on how to register and access the <a href="https://eosc-nordic.uiogeo-apps.sigma2.no/hub/login">EOSC-Nordic JupyterLab</a>. We will organize a &quot;check your access&quot; session before the hackathon where we can help you to go through the steps.</li>
+</ul>
+<h3 id="schedule">Schedule</h3>
+<p>Day 1 - Tuesday 11 March, 2021 (13:00 - 17:00 CET)</p>
+<ul>
+<li>Training, planning and preparations</li>
+</ul>
+<p>Day 2 - Tuesday 16 March, 2021 (13:00 - 17:00 CET)</p>
+<ul>
+<li>Practial work</li>
+</ul>
+<p>Day 3 - Wednesday 17 March, 2021 (13:00 - 17:00 CET)</p>
+<ul>
+<li>Practical work</li>
+</ul>
+<h3 id="location">Location</h3>
+<p>The hackathon will be held <strong>online</strong>, participant links will be sent to
+registered participants.</p>
+<h3 id="who-the-hackathon-is-for">Who the hackathon is for</h3>
+<p>From FAIR experts to Climate modellers.</p>
+<p>Are you doing one of these things below:</p>
+<ul>
+<li>You help researchers to make their data FAIR.</li>
+<li>You write to process climate data.</li>
+<li>You change scripts written by your colleagues.</li>
+<li>You write code that is used in climate research by you or others.</li>
+</ul>
+<p>If yes, then this hackathon is for you.</p>
+<h3 id="how-to-join">How to join</h3>
+<p>We have a limited number of seats. Priority seats are given to NICEST2 staff.</p>
+<p>To ensure a balanced mix of participants we warmly invite both climate researchers and research data managers.</p>
+<p>Please use the <a href="https://indico.neic.no/event/177/overview">NeIC indico page</a> to register your interest.</p>
+<p><strong>As an attendees, we request you to be able to contribute a minimum of 30 hours (including the hackathon itself)</strong>.</p>
+<h3 id="organizers">Organizers</h3>
+<ul>
+<li>Anne Claire Foulloux (UiO), Hamish Struthers (LiU), Matus Kalas (UiB),
+Prashanth Dwarakanath (LiU), Tyge Løvset (NORCE)</li>
+</ul>
+<h3 id="contact">Contact</h3>
+<p>If you have questions please don't hesitate to contact Hamish Struthers:
+struthers@nsc.liu.se</p>
+<h2 id="questions-answers-and-feedback">Questions, answers, and feedback</h2>
+<p>Here we can share during/after the workshop (anonymized)
+questions, answer, and feedback from the collaborative notes.</p>
+<!--* [Day 1 questions and notes]({{ site.baseurl }}/hackmd-day1/)-->
+<!--* [Day 2 questions and notes]({{ site.baseurl }}/hackmd-day2/)-->
+<!--* [Day 3 questions and notes]({{ site.baseurl }}/hackmd-day3/)-->
+<!--* [Day 4 questions and notes]({{ site.baseurl }}/hackmd-day4/)-->
+<!--* [Day 5 questions and notes]({{ site.baseurl }}/hackmd-day5/)-->
+<!--* [Day 6 questions and notes]({{ site.baseurl }}/hackmd-day6/)-->
+
+      
+
+    </div>
+    <div class="col-md-2">
+      <h4>Organizer</h4>
+      
+        <a href="https:&#x2F;&#x2F;neic.no&#x2F;nicest2&#x2F;">
+          <img src="https://nordicesmhub.github.io/nicest2-fair-hackathon/processed_images/fbbd29423f59626100.png"
+               alt="logo"
+               style="margin-top: 25px;">
+        </a>
+      
+      <hr>
+      <h4>Partners</h4>
+      
+        <a href="[object]">
+          <img src="https://nordicesmhub.github.io/nicest2-fair-hackathon/processed_images/51943e83cc95666700.png"
+               alt="partner"
+               style="margin-top: 25px;">
+        </a>
+      
+        <a href="[object]">
+          <img src="https://nordicesmhub.github.io/nicest2-fair-hackathon/processed_images/8e4ef2e615a1aeee00.png"
+               alt="partner"
+               style="margin-top: 25px;">
+        </a>
+      
+    </div>
+
+
+      <!-- footer -->
+      <div class="row">
+        <div class="col">
+          <hr>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg">
+          <p>
+            <strong>Funding</strong>
+          </p>
+          <p>
+            NICEST2 is a project within the
+            <a href="https://neic.no" target="_blank">Nordic e-Infrastructure Collaboration</a> (NeIC).
+            NeIC is an organisational unit under <a href="http://www.nordforsk.org/en" target="_blank">NordForsk</a>.
+          </p>
+        </div>
+        <div class="col-lg">
+          <p>
+            <strong>Follow us</strong>
+          </p>
+          <p>
+            <a href="https://github.com/NordicESMHub" target="_blank">
+              <img src="https://nordicesmhub.github.io/nicest2-fair-hackathon/processed_images/b4cc1d3c13d7ddeb00.png"
+                   alt="NordicESMHub GitHub organization">
+            </a>
+          </p>
+        </div>
+        <div class="col-lg">
+          <p>
+            <strong>Contact</strong>
+          </p>
+          <p>
+            <a href="mailto:struthers@nsc.liu.se">struthers@nsc.liu.se</a>
+          </p>
+        </div>
+      </div>
+      <!-- end footer -->
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js@4.2.2/anchor.min.js"
+            integrity="sha256-E4RlfxwyJVmkkk0szw7LYJxuPlp6evtPSBDlWHsYYL8="
+            crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+
+      // https://github.com/twbs/bootstrap/issues/1768#issuecomment-6531466
+      var shiftWindow = function() { scrollBy(0, -100) };
+      if (location.hash) shiftWindow();
+      window.addEventListener("hashchange", shiftWindow);
+    </script>
+
+  </body>
+</html>
